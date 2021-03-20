@@ -15,3 +15,14 @@ Move to previous levels until you reach level S, pick up the sword and complete 
 Every time you enter a level you have to exit it, either by completing it and going to the next level or by moving to a previous level or by finishing / exiting the game. Exiting any level takes 1 minute. That means, for example, that it took you L minutes to complete the first L levels.
 
 Your task is to discover which option would result in the least amount of total time to finish the game (including the time you have already spent).
+```
+##### Input
+```
+The first line of the input gives the number of test cases, T. T test cases follow.
+
+The first (and only) line of each test case contains three integers N, K and S: the number of levels in the game, the current level you are in, and the level where you have to pick up the sword, respectively.
+```
+##### Output
+```
+For each test case, output one line containing Case #x: y, where x is the test case number (starting from 1) and y is the least amount of total time to finish the game.
+```
