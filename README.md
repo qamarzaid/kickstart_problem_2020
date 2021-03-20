@@ -26,3 +26,18 @@ The first (and only) line of each test case contains three integers N, K and S: 
 ```
 For each test case, output one line containing Case #x: y, where x is the test case number (starting from 1) and y is the least amount of total time to finish the game.
 ```
+##### E.g.
+
+###### Input
+```
+2
+10 5 2
+10 7 6
+```
+###### Output
+```
+Case #1: 15
+Case #2: 12
+```
+  
+
