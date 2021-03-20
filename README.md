@@ -39,5 +39,47 @@ For each test case, output one line containing Case #x: y, where x is the test c
 Case #1: 15
 Case #2: 12
 ```
-  
+##### Code:
+```c++
+#include<bits/stdc++.h>
+using namespace std;
+
+#define pb push_back
+#define mk make_pair
+
+
+void solve(int i)
+{
+	long n, k, s;
+	cin>>n>>k>>s;
+
+	long t1 = k + (k - s) + (n - s);
+	long t2 = k + n;
+
+	if (t1 >= t2)
+	{
+		cout<<"Case "<<"#"<<i<<":"<<" "<<t2<<"\n";
+	}
+
+	else
+	{
+		cout<<"Case "<<"#"<<i<<":"<<" "<<t1<<"\n";
+	}
+}
+
+int main()
+{
+	ios::sync_with_stdio(0);
+	cin.tie(0);
+
+	int t;
+	int i = 0;
+	cin>>t;
+	while (t-- > 0)
+	{
+	    i++;
+		solve(i);
+	}
+}
+```
 
