@@ -121,3 +121,9 @@ For each test case, output one line containing Case #x: y, where x is the test c
 120 125
 779 783
 ```
+##### Sample Output
+```
+Case #1: 6
+Case #2: 3
+Case #3: 2
+```
