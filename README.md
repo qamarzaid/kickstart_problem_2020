@@ -110,3 +110,7 @@ are boring. Ron is unable to solve the problem, hence he needs your help.
 The first line of the input gives the number of test cases, T. T test cases follow.
 Each test case consists of a single line with two numbers L and R.
 ```
+##### Output
+```
+For each test case, output one line containing Case #x: y, where x is the test case number (starting from 1) and y is the count of boring numbers.
+```
