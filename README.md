@@ -114,3 +114,10 @@ Each test case consists of a single line with two numbers L and R.
 ```
 For each test case, output one line containing Case #x: y, where x is the test case number (starting from 1) and y is the count of boring numbers.
 ```
+##### Sample Input
+```
+3
+5 15
+120 125
+779 783
+```
