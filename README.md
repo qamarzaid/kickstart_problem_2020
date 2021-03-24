@@ -99,6 +99,7 @@ int main()
 ![](https://media.giphy.com/media/jR03rPYvUSzkMVXtHH/giphy.gif)
 
 #### Problem 2: Boring Numbers
+![](https://media.giphy.com/media/XuDlhFtiWXZEk/giphy.gif)
 ```
 Ron read a book about boring numbers. According to the book, a positive number is called boring if all
 of the digits at even positions in the number are even and all of the digits at odd positions are odd.
