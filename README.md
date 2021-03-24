@@ -96,6 +96,8 @@ int main()
 ```
 [Code Demo Link](https://replit.com/@ZaidQamar/retype#main.cpp)
 
+![](https://media.giphy.com/media/jR03rPYvUSzkMVXtHH/giphy.gif)
+
 #### Problem 2: Boring Numbers
 ```
 Ron read a book about boring numbers. According to the book, a positive number is called boring if all
