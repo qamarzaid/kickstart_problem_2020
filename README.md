@@ -1,5 +1,5 @@
 ### Google Kickstart Problem 2020
-12345
+123456
 ### Round-H
 #### Problem 1: Retype
 
