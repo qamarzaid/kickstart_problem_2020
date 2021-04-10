@@ -1,7 +1,6 @@
 ### Google Kickstart Problem 2020
 ### Round-H
 #### Problem 1: Retype
-
 ```
 After spending many hours studying for programming competitions, you decided to take a rest 
 and play video games. You are currently playing an adventure game called Quick Start.
